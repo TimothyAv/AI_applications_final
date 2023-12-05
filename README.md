@@ -10,7 +10,7 @@ to effectively identify pictures to make educated judgments and respond intellig
 
 ## Installation
 
-1. Clone the repository.
+Clone the repository.
 
 
 
