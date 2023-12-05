@@ -11,11 +11,7 @@ to effectively identify pictures to make educated judgments and respond intellig
 ## Installation
 
 1. Clone the repository.
-2. Install the necessary dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Ensure you have Python installed.
+
 
 
 
